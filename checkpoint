@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\JunjunPeng\\pythonCode\\textPythonCode\\model_alexnet-1000"
+all_model_checkpoint_paths: "D:\\JunjunPeng\\pythonCode\\textPythonCode\\model_alexnet-1000"
